@@ -1,1 +1,2 @@
 mitmproxy==3.0.2
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
